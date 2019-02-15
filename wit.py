@@ -2,7 +2,7 @@ print("Hanifa's Age Categories\n")
 
 print("")
 try:
-    year= int(input("Please enter your date of birth: (numbers)\n"))
+    year= int(input("Please enter your year of birth: (numbers)\n"))
     age = 2019 - year
     age= int(age)
     if age <18:
